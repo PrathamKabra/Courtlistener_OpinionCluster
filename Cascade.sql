@@ -1,0 +1,1 @@
+TRUNCATE TABLE public.search_opinioncluster CASCADE;
